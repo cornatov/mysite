@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+
+.logo2 {
+    background: url(logo2.png) top no-repeat;
+    padding-bottom: 100px;
+    background-size: 50px, cover;
+    margin-top:100px;
+  }
+
+.jumbotron {
+	background-color:#8FD8D8 !important;
+}
